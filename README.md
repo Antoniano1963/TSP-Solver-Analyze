@@ -54,11 +54,11 @@ The experiment compared Generalization Performance of different model. Using the
 
 <div align=center><img src="README.assets/generalization_performance4.png"></div>
 
-<p align="center">Generalization performance test of different models on datasets of different sizes   Figure3</p>
+<p align="center">Figure3   Generalization performance test of different models on datasets of different sizes</p>
 
 <div align=center><img src="README.assets/generalization_performance3.png"></div>
 
-<center style="color:#C0C0C0;">Generalization performance test of different models(The model which performance good) on datasets of different sizes    Figure4</center>
+<center style="color:#C0C0C0;">Figure4     Generalization performance test of different models(The model which performance good) on datasets of different sizes</center>
 
 #### Training Performance with different dataset
 
@@ -66,11 +66,11 @@ In this experiment, the performance of AM and GPN models trained with different 
 
 <div align=center><img src="README.assets/training_performance.png"></div>
 
-<p align="center">The training effect of the model under different datasets. The horizontal axis of the picture is the training rounds, and the vertical axis is the percentage gap between the solution of the model on the test set and the Baseline   Figure5</p>
+<p align="center">Figure5   The training effect of the model under different datasets. The horizontal axis of the picture is the training rounds, and the vertical axis is the percentage gap between the solution of the model on the test set and the Baseline</p>
 
 <div align=center><img src="README.assets/training_performance2.png"></div>
 
-<p align="center">The training effect of the model under different data sets The horizontal axis of the picture is the training round, and the vertical axis is the percentage gap between the solution of the model on the test set and the Baseline (Add the performance of the model with continued training)   Figure6</pr>
+<p align="center">Figure6   The training effect of the model under different data sets The horizontal axis of the picture is the training round, and the vertical axis is the percentage gap between the solution of the model on the test set and the Baseline (Add the performance of the model with continued training)</pr>
 
 #### AM Position Embedding Experiment
 
@@ -78,7 +78,7 @@ Prove that the cosine similarity of the AM model position embedding is related t
 
 <div align=center><img src="README.assets/position_encoding.png"></div>
 
-<p align="center">Comparison of Cosine Similarity of different model's position embedding and EUD2 Distance   Figure7</p>
+<p align="center">Figure7   Comparison of Cosine Similarity of different model's position embedding and EUD2 Distance</p>
 
 
 
