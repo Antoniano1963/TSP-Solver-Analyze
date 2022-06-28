@@ -18,11 +18,11 @@ The dataset is generated based on the paper [Evolving Diverse TSP Instances by M
 
 We used the Linear Projection and Cluster mutation operators to generate training and test data.
 
-![image-20220628224533484](README.assets/image-20220628224533484.png)
+<div align=center>![image-20220628224533484](README.assets/image-20220628224533484.png)</div>
 
 <p align="center">Figure1 The effect of Linear Projection operator at n=1500</p>
 
-![image-20220628224544230](README.assets/image-20220628224544230.png)
+<div align=center>![image-20220628224544230](README.assets/image-20220628224544230.png)</div>
 
 <p align="center">Figure2 The effect of Cluster operator at n=1500</p>
 
@@ -46,7 +46,7 @@ The solving performance of AM, GPN and GCN_NPEC is tested using self-generated d
 
 ![image-20220628225204325](README.assets/image-20220628225204325.png)
 
-<center style="color:#C0C0C0;">Solving performance of AM, GPN, GCN_NPEC trained with different training datasets. Among them, Obj is the optimal solution of the model, and Gap is the gap (percentage) between the optimal solution of the model and the historical optimal solution.   Table2</center>
+<p align="center">Table2 Solving performance of AM, GPN, GCN_NPEC trained with different training datasets. Among them, Obj is the optimal solution of the model, and Gap is the gap (percentage) between the optimal solution of the model and the historical optimal solution.</p>
 
 #### Generalization Performance Test
 
@@ -54,7 +54,7 @@ The experiment compared Generalization Performance of different model. Using the
 
 ![generalization_performance4](README.assets/generalization_performance4.png)
 
-<center style="color:#C0C0C0;">Generalization performance test of different models on datasets of different sizes   Figure3</center>
+<p align="center">Generalization performance test of different models on datasets of different sizes   Figure3</p>
 
 ![generalization_performance3](README.assets/generalization_performance3.png)
 
@@ -66,11 +66,11 @@ In this experiment, the performance of AM and GPN models trained with different 
 
 ![training_performance](README.assets/training_performance.png)
 
-<center style="color:#C0C0C0;">The training effect of the model under different datasets. The horizontal axis of the picture is the training rounds, and the vertical axis is the percentage gap between the solution of the model on the test set and the Baseline   Figure5</center>
+<p align="center">The training effect of the model under different datasets. The horizontal axis of the picture is the training rounds, and the vertical axis is the percentage gap between the solution of the model on the test set and the Baseline   Figure5</p>
 
 ![training_performance2](README.assets/training_performance2.png)
 
-<center style="color:#C0C0C0;">The training effect of the model under different data sets The horizontal axis of the picture is the training round, and the vertical axis is the percentage gap between the solution of the model on the test set and the Baseline (Add the performance of the model with continued training)   Figure6</center>
+<p align="center">The training effect of the model under different data sets The horizontal axis of the picture is the training round, and the vertical axis is the percentage gap between the solution of the model on the test set and the Baseline (Add the performance of the model with continued training)   Figure6</pr>
 
 #### AM Position Embedding Experiment
 
@@ -78,7 +78,7 @@ Prove that the cosine similarity of the AM model position embedding is related t
 
 ![position_encoding](README.assets/position_encoding.png)
 
-<center style="color:#C0C0C0;">Comparison of Cosine Similarity of different model's position embedding and EUD2 Distance   Figure7</center>
+<p align="center">Comparison of Cosine Similarity of different model's position embedding and EUD2 Distance   Figure7</p>
 
 
 
