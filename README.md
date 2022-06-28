@@ -18,8 +18,7 @@ The dataset is generated based on the paper [Evolving Diverse TSP Instances by M
 
 We used the Linear Projection and Cluster mutation operators to generate training and test data.
 
-<div align=center>![image-20220628224533484](README.assets/image-20220628224533484.png)</div>
-
+<div align=center><img src="README.assets/image-20220628224533484.png"></div>
 <p align="center">Figure1 The effect of Linear Projection operator at n=1500</p>
 
 <div align=center>![image-20220628224544230](README.assets/image-20220628224544230.png)</div>
