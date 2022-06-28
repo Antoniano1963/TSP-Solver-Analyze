@@ -24,7 +24,7 @@ We used the Linear Projection and Cluster mutation operators to generate trainin
 
 ![image-20220628224544230](README.assets/image-20220628224544230.png)
 
-<center style="color:#C0C0C0;">The effect of Cluster operator at n=1500   Figure2</center>
+<p align="center">Figure2 The effect of Cluster operator at n=1500</p>
 
 | **Problem set**       | **Data size** | **Mutation**           | **Problem Size** |
 | --------------------- | ------------- | ---------------------- | ---------------- |
@@ -34,7 +34,7 @@ We used the Linear Projection and Cluster mutation operators to generate trainin
 | **Mix(L,C)(4)**       | **320000**    | **Linear and Cluster** | **50**           |
 | **Uniform(5)**        | **320000**    | **None**               | **50**           |
 
-<center style="color:#C0C0C0;">Introduction to the datasets   Table1</center>
+<p align="center" style="color:#C0C0C0;">Table1 Introduction to the datasets</p>
 
 ## Experiment Result
 
