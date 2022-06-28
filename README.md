@@ -20,7 +20,7 @@ We used the Linear Projection and Cluster mutation operators to generate trainin
 
 ![image-20220628224533484](README.assets/image-20220628224533484.png)
 
-<p align="center" style="color:#C0C0C0;"><center style="color:#C0C0C0;">The effect of Linear Projection operator at n=1500   Figure1</center></p>
+<p align="center">Figure1 The effect of Linear Projection operator at n=1500</p>
 
 ![image-20220628224544230](README.assets/image-20220628224544230.png)
 
