@@ -50,15 +50,15 @@ The solving performance of AM, GPN and GCN_NPEC is tested using self-generated d
 
 #### Generalization Performance Test
 
-The experiment compared Generalization Performance of different model. Using the data in the size of Graph size = [5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 60, 65, 75, 80, 85, 90, 95, 100] to get the Generalization Performance.
+The experiment compared Generalization Performance of different model. Using the data in the size of Graph size = [10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 60, 65, 75, 80, 85, 90, 95, 100] to get the Generalization Performance.
 
-![generalization_performance](README.assets/generalization_performance.png)
+![generalization_performance4](README.assets/generalization_performance4.png)
 
 <center style="color:#C0C0C0;">Generalization performance test of different models on datasets of different sizes   Figure3</center>
 
-![generalization_performance2](README.assets/generalization_performance2.png)
+![generalization_performance3](README.assets/generalization_performance3.png)
 
-<center style="color:#C0C0C0;">Generalization performance test of different models on datasets of different sizes (fine comparison of excellent models)   Figure4</center>
+<center style="color:#C0C0C0;">Generalization performance test of different models(The model which performance good) on datasets of different sizes    Figure4</center>
 
 #### Training Performance with different dataset
 
@@ -70,7 +70,7 @@ In this experiment, the performance of AM and GPN models trained with different 
 
 ![training_performance2](README.assets/training_performance2.png)
 
-<center style="color:#C0C0C0;">The training effect of the model under different data sets The horizontal axis of the picture is the training round, and the vertical axis is the percentage gap between the solution of the model on the test set and the Baseline (increase the performance of the model with continued training)   Figure6</center>
+<center style="color:#C0C0C0;">The training effect of the model under different data sets The horizontal axis of the picture is the training round, and the vertical axis is the percentage gap between the solution of the model on the test set and the Baseline (Add the performance of the model with continued training)   Figure6</center>
 
 #### AM Position Embedding Experiment
 
@@ -80,5 +80,5 @@ Prove that the cosine similarity of the AM model position embedding is related t
 
 <center style="color:#C0C0C0;">Comparison of Cosine Similarity of different model's position embedding and EUD2 Distance   Figure7</center>
 
-#### 
+
 
